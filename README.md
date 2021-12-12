@@ -10,3 +10,4 @@ eu me deparei com a seguinte pergunta: o que aconteceria se eu partisse uma mesm
 Abri o meu TrebEdit (Ainda não tenho computador 🙄) e comecei a codar...
 O resultado é esse wue está na sua frente!
 O site também está hospedado no GitHub Pages, onde você pode rodá-lo sem nenhum problema 😋
+https://emilsonfilho.github.io/projeto_squares/ ⚡
